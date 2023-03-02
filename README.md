@@ -1,20 +1,19 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *MyStory*
 
-Submitted by: **Your Name Here**
+Submitted by: **Harrold Ventayen**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**MyStory** is an app that introduces ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Users are able to see at least 3 context items
-- [ ] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
+- [X] Users are able to see at least 3 context items
+- [X] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
@@ -41,10 +40,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Since there is no varies by traits button, adapting to size orientation and screen size was a lot harder.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Harrold Ventayen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
